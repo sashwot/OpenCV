@@ -1,5 +1,5 @@
-NEWAPP NASA Image Viewer
-NEWAPP is a small full-stack app that fetches NASA imagery from a FastAPI backend and displays original plus OpenCV-refined images in a React/Vite frontend.
+NASA Image Viewer
+It is a small full-stack app that fetches NASA imagery from a FastAPI backend and displays original plus OpenCV-refined images in a React/Vite frontend.
 
 The app currently shows:
 
