@@ -1,3 +1,4 @@
+[OutPut (1).pdf](https://github.com/user-attachments/files/35436240/OutPut.1.pdf)
 NASA Image Viewer
 It is a small full-stack app that fetches NASA imagery from a FastAPI backend and displays original plus OpenCV-refined images in a React/Vite frontend.
 
