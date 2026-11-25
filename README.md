@@ -7,7 +7,7 @@ A full-stack web app that fetches imagery from NASA's public APIs and enhances i
 **Stack:** Python · FastAPI · OpenCV · React · TypeScript · Vite
 
 ![Original vs. enhanced comparison](docs/screenshot.png)
-<!-- Add a screenshot or GIF of the app here. This is the most important line in the README. -->
+< OutPut (1).pdf](https://github.com/user-attachments/files/35436240/OutPut.1.pdf) -->
 
 ---
 
@@ -105,7 +105,7 @@ Set `include_image=false` to return metadata only, without base64 image data.
 
 ## Results
 
-<!-- [OutPut (1).pdf](https://github.com/user-attachments/files/35436240/OutPut.1.pdf) -->
+OutPut (1).pdf](https://github.com/user-attachments/files/35436240/OutPut.1.pdf)
 
 | Original | Enhanced |
 |---|---|
